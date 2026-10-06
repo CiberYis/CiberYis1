@@ -1,0 +1,6 @@
+{
+  "name": "CiberSENA Media Técnica - Plataforma de Ciberseguridad",
+  "description": "Plataforma integral y simulador formativo de ciberseguridad para aprendices SENA de Media Técnica con laboratorios interactivos, triaje forense y acta de juicio evaluativo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
